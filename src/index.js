@@ -1,2 +1,6 @@
 
-export { Counter } from "./components/Counter"
+const { Counter } = require("./components/Counter")
+
+module.exports = {
+  Counter
+}
