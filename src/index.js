@@ -1,2 +1,2 @@
 
-export { Counter } from "./components"
+export { Counter } from "./components/Counter"
