@@ -1,6 +1,6 @@
 import * as React from "react"
 
-export default function Counter () {
+export function Counter () {
   const [state, setState] = React.useState(0)
   
   const handleIncrease = () => {
