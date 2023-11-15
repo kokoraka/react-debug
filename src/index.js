@@ -1,6 +1,8 @@
 
-const { Counter } = require("./components/Counter")
+// const { Counter } = require("./components/Counter")
 
-module.exports = {
-  Counter
-}
+// module.exports = {
+//   Counter
+// }
+
+export { Counter } from "./components/Counter"
