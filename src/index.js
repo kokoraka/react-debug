@@ -5,4 +5,4 @@
 //   Counter
 // }
 
-export { Counter } from "./components/Counter"
+export { Counter } from "./components/Counter.jsx"
